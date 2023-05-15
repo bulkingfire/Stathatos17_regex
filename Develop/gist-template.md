@@ -88,4 +88,4 @@ In regular expressions (regex), backreferences are used to refer to previously m
 Look-ahead and Look-behind are regex constructs that allow for searching patterns that are followed or preceded by specific patterns without including those specific patterns in the match. They are also called zero-width assertions, as they do not actually match any characters in the input string, but rather assert a certain condition.
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+(https://github.com/bulkingfire)
